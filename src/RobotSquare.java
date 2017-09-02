@@ -9,13 +9,16 @@ public class RobotSquare {
 Robot r = new Robot();
 r.penDown();
 r.setSpeed(10);
-r.move(400);
-
+for(int i=0;i<4;i=i++){
+	r.move(200);
+	r.turn(90);
+	
+	
+}
         // 3. Put the robot's pen down
 
 
         // 6. Make the robot move as fast as possible
-
 
         // 5. Do everything below here 4 times
 
