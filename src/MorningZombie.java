@@ -11,5 +11,7 @@ public class MorningZombie {
 		JOptionPane.showMessageDialog(null,"1.Wake up");
 		JOptionPane.showMessageDialog(null,"2.Change your clothes");
 		JOptionPane.showMessageDialog(null,"3.Brush your teeth");
+		JOptionPane.showMessageDialog(null,"4.Eat breakfast");
+		JOptionPane.showMessageDialog(null,"5.Go to school");
 	}
 }
